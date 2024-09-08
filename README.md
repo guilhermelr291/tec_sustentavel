@@ -9,7 +9,7 @@ Estrutura do Projeto:
 
 Execução:
   1. Clonar o Repositório
-  2. Executar os Containers: docker-compose up
+  2. Executar os Containers: docker compose up
 
 
 Acessar a Aplicação: http://localhost:8080
